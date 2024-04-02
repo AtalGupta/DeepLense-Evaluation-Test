@@ -1,6 +1,6 @@
 # GSOC 2024 Evaluation Test - Project Repository
 
-Welcome to the evaluation test repository for the GSOC 2024 program. This repository contains a set of Jupyter Notebooks that serve as tasks for candidates to complete as part of the application process.
+Welcome to the evaluation test repository for the GSOC 2024 program. This repository contains a set of Jupyter Notebooks that serve as tasks to complete as part of the application process.
 
 ## Tasks Overview
 
